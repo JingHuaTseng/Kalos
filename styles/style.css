@@ -2,7 +2,7 @@
 
 html {
   background-color: #00539f;
-  font-size: 100px; /* px means 'pixels': the base font size is now 10 pixels high  */
+  font-size: 55px; /* px means 'pixels': the base font size is now 10 pixels high  */
   font-family: "Honk"
 }
 body {
@@ -20,7 +20,7 @@ h1 {
 p,
 ul,
 li {
-  font-size: 55px;
+  font-size: 100px;
   letter-spacing: 1px;
   text-align: center;
 }
