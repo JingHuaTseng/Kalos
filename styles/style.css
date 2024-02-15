@@ -13,14 +13,14 @@ body {
   border: 5px solid black;
 }
 h1 {
-  font-size: 55px;
+  font-size: 100px;
   text-align: center;
 }
 
 p,
 ul,
 li {
-  font-size: 55px;
+  font-size: 100px;
   letter-spacing: 1px;
   text-align: center;
 }
