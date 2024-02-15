@@ -1,9 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Honk&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Honk&family=Protest+Strike&display=swap')
 html {
   background-color: #00539f;
   font-size: 20px; /* px means 'pixels': the base font size is now 10 pixels high  */
-  font-family: "Honk"
 }
 body {
   width: 1080px;
@@ -13,7 +12,17 @@ body {
   border: 5px solid black;
 }
 h1 {
-  font-size: px;
+  font-family: "Honk"
+  font-size: 55px;
+  text-align: center;
+  margin: 0;
+  padding: 20px 0;
+  color: #00539f;
+  text-shadow: 3px 3px 1px black;
+}
+h2 {
+  font-family: "Protest Strike"
+  font-size: 40px;
   text-align: center;
   margin: 0;
   padding: 20px 0;
@@ -24,6 +33,7 @@ h1 {
 p,
 ul,
 li {
+  font-family: "Protest Strike"
   font-size: 35px;
   letter-spacing: 1px;
   text-align: center;
