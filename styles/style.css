@@ -42,7 +42,7 @@ li {
   font-size: 20px;
   color: #000000;
   text-align: center;
-  padding-left: 0;
+  list-style-position: inside;
 }
 img {
   display: block;
