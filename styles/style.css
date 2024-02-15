@@ -42,8 +42,7 @@ li {
   font-size: 20px;
   color: #000000;
   text-align: center;
-  list-style-type: none;
-  margin-left: -20px;
+  padding-left: 0;
 }
 img {
   display: block;
