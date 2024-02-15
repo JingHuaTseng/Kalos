@@ -36,13 +36,14 @@ p{
   font-size: 15px;
   color: #000000;
 }
-ul,
+
 li {
   font-family: "Protest Revolution";
   font-size: 20px;
   color: #000000;
   text-align: center;
   list-style-position: inside;
+  margin-left: 0
 }
 img {
   display: block;
