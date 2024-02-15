@@ -4,6 +4,7 @@ html {
   background-color: #00539f;
   font-size: 20px; /* px means 'pixels': the base font size is now 10 pixels high  */
 }
+
 body {
   width: 1080px;
   margin: 0 auto;
@@ -21,7 +22,7 @@ h1 {
   text-shadow: 3px 3px 1px black;
 }
 h2 {
-  font-family: "Protest Strike"
+  font-family: "Protest Revolution"
   font-size: 40px;
   text-align: center;
   margin: 0;
@@ -31,13 +32,13 @@ h2 {
 }
 
 p{
-  font-family: "Protest Strike"
+  font-family: "Protest Revolution"
   font-size: 35px;
   letter-spacing: 1px;
 }
 ul,
 li {
-  font-family: "Protest Strike"
+  font-family: "Protest Revolution"
   font-size: 35px;
   letter-spacing: 1px;
   text-align: center;
