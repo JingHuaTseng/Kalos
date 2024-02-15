@@ -2,7 +2,7 @@
 
 html {
   background-color: #00539f;
-  font-size: 55px; /* px means 'pixels': the base font size is now 10 pixels high  */
+  font-size: 100px; /* px means 'pixels': the base font size is now 10 pixels high  */
   font-family: "Honk"
 }
 body {
@@ -13,7 +13,7 @@ body {
   border: 5px solid black;
 }
 h1 {
-  font-size: 100px;
+  font-size: 55px;
   text-align: center;
 }
 
