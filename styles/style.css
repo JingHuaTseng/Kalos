@@ -6,7 +6,7 @@ html {
   font-family: "Honk"
 }
 body {
-  width: 600px;
+  width: 1080px;
   margin: 0 auto;
   background-color: #ff9500;
   padding: 0 20px 20px 20px;
@@ -20,7 +20,7 @@ h1 {
 p,
 ul,
 li {
-  font-size: 16px;
+  font-size: 30px;
   line-height: 2;
   letter-spacing: 1px;
   text-align: center;
