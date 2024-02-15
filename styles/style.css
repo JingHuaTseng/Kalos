@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Honk&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Honk&family=Protest+Strike&display=swap')
+@import url('https://fonts.googleapis.com/css2?family=Protest+Revolution&display=swap')
 html {
   background-color: #00539f;
   font-size: 20px; /* px means 'pixels': the base font size is now 10 pixels high  */
@@ -30,7 +30,11 @@ h2 {
   text-shadow: 3px 3px 1px black;
 }
 
-p,
+p{
+  font-family: "Protest Strike"
+  font-size: 35px;
+  letter-spacing: 1px;
+}
 ul,
 li {
   font-family: "Protest Strike"
