@@ -13,8 +13,12 @@ body {
   border: 5px solid black;
 }
 h1 {
-  font-size: 60px;
+  font-size: px;
   text-align: center;
+  margin: 0;
+  padding: 20px 0;
+  color: #00539f;
+  text-shadow: 3px 3px 1px black;
 }
 
 p,
